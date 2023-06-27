@@ -3,6 +3,7 @@ Decesion Tree
 Average Confusion Matrix:
 
 [[1189.   122.8]
+
  [  96.2 1195.4]]
 
  Average precision:
@@ -22,7 +23,9 @@ Average Confusion Matrix:
 
 Random Forest
 Average Confusion Matrix:
+
 [[1271.6   40.2]
+
  [  44.  1247.6]]
  
  Average precision:
@@ -42,7 +45,9 @@ Average Confusion Matrix:
 
 Logistic Regression
 Average Confusion Matrix:
+
 [[1296.8   15. ]
+
  [  30.  1261.6]]
 
 Average precision:
