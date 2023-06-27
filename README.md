@@ -1,4 +1,9 @@
 # CIND820-Bank-Account-Fraud
+Working dataset:
+
+https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022?select=Base.csv
+
+
 Effectiveness:
 
 Decesion Tree
