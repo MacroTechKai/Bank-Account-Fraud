@@ -1,4 +1,6 @@
 # CIND820-Bank-Account-Fraud
+Effectiveness:
+
 Decesion Tree
 
 Average Confusion Matrix:
