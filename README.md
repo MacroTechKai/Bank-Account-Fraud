@@ -15,3 +15,4 @@ This is a tabular dataset with 1 million instances and 31 features.
 11.	For Efficiency, I compared each model’s execution time.
 12.	For stability, I changed seed to 10, 500, 5000 to check the change of the metrics’ results.
 
+All python codes are in Code folder.
