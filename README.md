@@ -16,3 +16,5 @@ This is a tabular dataset with 1 million instances and 31 features.
 12.	For stability, I changed seed to 10, 500, 5000 to check the change of the metrics’ results.
 
 All python codes are in Code folder.
+
+Please feel free to request the full and updated version of the report by sending your inquiry to my email address: k10lu@torontomu.ca. I encourage open communication, and I am here to assist with any information or queries you may have. Your engagement is greatly appreciated.
